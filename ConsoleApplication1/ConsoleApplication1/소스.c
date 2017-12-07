@@ -400,6 +400,11 @@ int main()
 		}
 	}
 
+	free(score);
+	free(have);
+	free(in);
+	free(coin);
+
 	getchar();//콘솔창 바로 꺼지는 것 방지
 	getchar();//콘솔창 바로 꺼지는 것 방지
 
