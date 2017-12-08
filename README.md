@@ -3,13 +3,14 @@ submit the assignments.
 
 please implement sorce code file
 
-HOW TO IMPLEMENT THE PROGRAM
+--HOW TO IMPLEMENT THE PROGRAM
 
 specify in the "FINAL PAPER" p.29 ~ p.31
 (PLEASE, check the manual in file "FINAL PAPER")
 
 
-To see the video clip in pdf
+
+--To see the video clip in pdf
 
  want to upload presentation file in ppt form, but due to the memory capacity problem, I can't upload that.
  So I upload presentation file in pdf form.
